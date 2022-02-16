@@ -8,6 +8,7 @@ def checkkey(arr,n,key,segment):
             return False
     return True
 arr=[3,5,2,4,9,3,1,7,3,11,12,3]
+arr=[23,2,321,323,2,23,123,213]
 key=3
 segment=4
 n=len(arr)
